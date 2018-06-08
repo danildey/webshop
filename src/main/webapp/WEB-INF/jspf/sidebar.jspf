@@ -1,0 +1,21 @@
+<div class="sub-cate">
+    <div class=" top-nav rsidebar span_1_of_left">
+        <h3 class="cate">CATEGORIES</h3>
+        <ul class="menu">
+            <li class="item1"><a href="#">item1<img class="arrow-img" src="images/arrow1.png" alt=""/> </a>
+                <ul class="cute">
+                    <li class="subitem1"><a href="product.html">sub item 1</a></li>
+                    <li class="subitem2"><a href="product.html">sub item 2</a></li>
+                    <li class="subitem3"><a href="product.html">sub item 3</a></li>
+                </ul>
+            </li>
+            <ul class="kid-menu ">
+                <li class="menu-kid-left"><a href="contact.html">Contact us</a></li>
+            </ul>
+        </ul>
+    </div>
+
+    <!--initiate accordion-->
+    <script src="js/initiate.js"></script>
+    <a class="view-all all-product" href="/products">VIEW ALL PRODUCTS<span> </span></a>
+</div>
